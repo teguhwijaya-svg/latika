@@ -1,4 +1,4 @@
-cosnt tombolsapa = document.getElementByIdI('sapaButton');
+cosnt tombolSapa = document.getElementById('sapaButton');
 tombolSapa.addEventListener('click', function() {
   alert("Halo! Terima Kasih Sensei Sudah Mengunjungi Watashi!");
 });
